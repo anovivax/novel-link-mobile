@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-09-25 10:16:36",
+  "generated_at": "2026-09-25 10:16:51",
   "records": [
+    {
+      "id": "ec65b754-582f-46d4-ba1f-68947e403b41",
+      "code": "120",
+      "title": "ตำนานเทพยุทธ์ผู้ก้าวข้ามทุกสรรพสิ่ง",
+      "category": "blue",
+      "category_name": "แปลนิยายตามใจฉัน",
+      "date": "2026-09-25",
+      "created_at": "2026-09-25 10:16:51",
+      "updated_at": "2026-09-25 10:16:51",
+      "old_link": "https://www.youtube.com/playlist?list=PLaO4_0__SYsM",
+      "new_link": "https://www.youtube.com/playlist?list=PLGnZanQUOcSY",
+      "copy_text": "[เสียงเก่า] ตำนานเทพยุทธ์ผู้ก้าวข้ามทุกสรรพสิ่ง\nhttps://www.youtube.com/playlist?list=PLaO4_0__SYsM\n[เสียงใหม่] ตำนานเทพยุทธ์ผู้ก้าวข้ามทุกสรรพสิ่ง\nhttps://www.youtube.com/playlist?list=PLGnZanQUOcSY"
+    },
     {
       "id": "4de3bb26-0603-4c88-8841-4f2093b31374",
       "code": "119",
