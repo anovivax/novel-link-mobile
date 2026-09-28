@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-09-28 17:17:30",
+  "generated_at": "2026-09-28 17:17:38",
   "records": [
+    {
+      "id": "e0b84097-be24-4725-87c6-8d479467c2dd",
+      "code": "125",
+      "title": "เส้นทางวายร้ายผู้ลิขิตชะตา",
+      "category": "blue",
+      "category_name": "แปลนิยายตามใจฉัน",
+      "date": "2026-09-28",
+      "created_at": "2026-09-28 17:17:38",
+      "updated_at": "2026-09-28 17:17:38",
+      "old_link": "https://www.youtube.com/playlist?list=PLHqkjonQQR7w",
+      "new_link": "https://www.youtube.com/playlist?list=PLd_XvjqzvNZc",
+      "copy_text": "[เสียงเก่า] เส้นทางวายร้ายผู้ลิขิตชะตา\nhttps://www.youtube.com/playlist?list=PLHqkjonQQR7w\n[เสียงใหม่] เส้นทางวายร้ายผู้ลิขิตชะตา\nhttps://www.youtube.com/playlist?list=PLd_XvjqzvNZc"
+    },
     {
       "id": "91b165a1-04da-45bb-b327-6cf80970b7a3",
       "code": "124",
