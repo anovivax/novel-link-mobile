@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-09-28 17:17:12",
+  "generated_at": "2026-09-28 17:17:30",
   "records": [
+    {
+      "id": "91b165a1-04da-45bb-b327-6cf80970b7a3",
+      "code": "124",
+      "title": "เมื่อคุณพ่อคือบอสใหญ่มหาเศรษฐี",
+      "category": "blue",
+      "category_name": "แปลนิยายตามใจฉัน",
+      "date": "2026-09-28",
+      "created_at": "2026-09-28 17:17:30",
+      "updated_at": "2026-09-28 17:17:30",
+      "old_link": "https://www.youtube.com/playlist?list=PLaZBeXNBaEW0",
+      "new_link": "https://www.youtube.com/playlist?list=PLBAmIJ3RHBlw",
+      "copy_text": "[เสียงเก่า] เมื่อคุณพ่อคือบอสใหญ่มหาเศรษฐี\nhttps://www.youtube.com/playlist?list=PLaZBeXNBaEW0\n[เสียงใหม่] เมื่อคุณพ่อคือบอสใหญ่มหาเศรษฐี\nhttps://www.youtube.com/playlist?list=PLBAmIJ3RHBlw"
+    },
     {
       "id": "86abdbb9-c4f3-4484-878e-b1b0c96a18a0",
       "code": "123",
