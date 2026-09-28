@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-09-28 17:16:59",
+  "generated_at": "2026-09-28 17:17:12",
   "records": [
+    {
+      "id": "86abdbb9-c4f3-4484-878e-b1b0c96a18a0",
+      "code": "123",
+      "title": "วิถีมารสลับขั้ว ทะลวงสวรรค์",
+      "category": "blue",
+      "category_name": "แปลนิยายตามใจฉัน",
+      "date": "2026-09-28",
+      "created_at": "2026-09-28 17:17:12",
+      "updated_at": "2026-09-28 17:17:12",
+      "old_link": "https://www.youtube.com/playlist?list=PLWWGjN4HuzaU",
+      "new_link": "https://www.youtube.com/playlist?list=PLcP1SIL4ROuk",
+      "copy_text": "[เสียงเก่า] วิถีมารสลับขั้ว ทะลวงสวรรค์\nhttps://www.youtube.com/playlist?list=PLWWGjN4HuzaU\n[เสียงใหม่] วิถีมารสลับขั้ว ทะลวงสวรรค์\nhttps://www.youtube.com/playlist?list=PLcP1SIL4ROuk"
+    },
     {
       "id": "10e65769-bc8e-4e18-8317-e67b917a5555",
       "code": "429",
