@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-10-02 09:57:08",
+  "generated_at": "2026-10-02 09:57:19",
   "records": [
+    {
+      "id": "e02bd82e-1780-4136-bb49-6f92f40f9022",
+      "code": "220",
+      "title": "ระบบถ่ายโอนผลข้างเคียง",
+      "category": "red",
+      "category_name": "Twilight Novel",
+      "date": "2026-10-02",
+      "created_at": "2026-10-02 09:57:19",
+      "updated_at": "2026-10-02 09:57:19",
+      "old_link": "https://www.youtube.com/playlist?list=PLHCIUNY68iXA",
+      "new_link": "https://www.youtube.com/playlist?list=PLb3RoiZytZ9E",
+      "copy_text": "[เสียงเก่า] ระบบถ่ายโอนผลข้างเคียง\nhttps://www.youtube.com/playlist?list=PLHCIUNY68iXA\n[เสียงใหม่] ระบบถ่ายโอนผลข้างเคียง\nhttps://www.youtube.com/playlist?list=PLb3RoiZytZ9E"
+    },
     {
       "id": "e57e4e27-cce1-4391-9b05-6001665096b6",
       "code": "219",
