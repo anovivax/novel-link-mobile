@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-10-02 09:55:55",
+  "generated_at": "2026-10-02 09:56:05",
   "records": [
+    {
+      "id": "f66985e2-2b58-41c5-bf14-51141566b443",
+      "code": "126",
+      "title": "บัญชาสวรรค์สยบมารสะท้านยุทธภพ",
+      "category": "blue",
+      "category_name": "แปลนิยายตามใจฉัน",
+      "date": "2026-10-02",
+      "created_at": "2026-10-02 09:56:05",
+      "updated_at": "2026-10-02 09:56:05",
+      "old_link": "https://www.youtube.com/playlist?list=PLDPU6BQJOupk",
+      "new_link": "https://www.youtube.com/playlist?list=PLAV_WEbfrSos",
+      "copy_text": "[เสียงเก่า] บัญชาสวรรค์สยบมารสะท้านยุทธภพ\nhttps://www.youtube.com/playlist?list=PLDPU6BQJOupk\n[เสียงใหม่] บัญชาสวรรค์สยบมารสะท้านยุทธภพ\nhttps://www.youtube.com/playlist?list=PLAV_WEbfrSos"
+    },
     {
       "id": "3632662a-fa33-4acd-b8d1-572b08a4ed70",
       "code": "433",
