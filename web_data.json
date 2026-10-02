@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-10-02 09:56:21",
+  "generated_at": "2026-10-02 09:56:33",
   "records": [
+    {
+      "id": "cb4ff728-de57-4087-803a-896aa2085e4f",
+      "code": "128",
+      "title": "ระบบลอร์ดสร้างฐานวันสิ้นโลก",
+      "category": "blue",
+      "category_name": "แปลนิยายตามใจฉัน",
+      "date": "2026-10-02",
+      "created_at": "2026-10-02 09:56:33",
+      "updated_at": "2026-10-02 09:56:33",
+      "old_link": "https://www.youtube.com/playlist?list=PLTW0anBcvfMk",
+      "new_link": "https://www.youtube.com/playlist?list=PLCyYxMgmWHEg",
+      "copy_text": "[เสียงเก่า] ระบบลอร์ดสร้างฐานวันสิ้นโลก\nhttps://www.youtube.com/playlist?list=PLTW0anBcvfMk\n[เสียงใหม่] ระบบลอร์ดสร้างฐานวันสิ้นโลก\nhttps://www.youtube.com/playlist?list=PLCyYxMgmWHEg"
+    },
     {
       "id": "b7a3031f-22e7-479e-b5d1-c00ea0fc889f",
       "code": "127",
