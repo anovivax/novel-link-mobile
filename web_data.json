@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-10-02 09:56:05",
+  "generated_at": "2026-10-02 09:56:21",
   "records": [
+    {
+      "id": "b7a3031f-22e7-479e-b5d1-c00ea0fc889f",
+      "code": "127",
+      "title": "ระบบตกปลาสร้างแดนสวรรค์",
+      "category": "blue",
+      "category_name": "แปลนิยายตามใจฉัน",
+      "date": "2026-10-02",
+      "created_at": "2026-10-02 09:56:21",
+      "updated_at": "2026-10-02 09:56:21",
+      "old_link": "https://www.youtube.com/playlist?list=PLbiq7QKeo0sY",
+      "new_link": "https://www.youtube.com/playlist?list=PLfMcSFc7J6zo",
+      "copy_text": "[เสียงเก่า] ระบบตกปลาสร้างแดนสวรรค์\nhttps://www.youtube.com/playlist?list=PLbiq7QKeo0sY\n[เสียงใหม่] ระบบตกปลาสร้างแดนสวรรค์\nhttps://www.youtube.com/playlist?list=PLfMcSFc7J6zo"
+    },
     {
       "id": "f66985e2-2b58-41c5-bf14-51141566b443",
       "code": "126",
