@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-10-03 15:34:47",
+  "generated_at": "2026-10-03 15:34:55",
   "records": [
+    {
+      "id": "a287e151-7e23-476e-bacf-dfc2a132a82c",
+      "code": "131",
+      "title": "เส้นทางวิวัฒนาการราชันอสูรบรรพกาล",
+      "category": "blue",
+      "category_name": "แปลนิยายตามใจฉัน",
+      "date": "2026-10-03",
+      "created_at": "2026-10-03 15:34:55",
+      "updated_at": "2026-10-03 15:34:55",
+      "old_link": "https://www.youtube.com/playlist?list=PLZmDIWvIqjIo",
+      "new_link": "https://www.youtube.com/playlist?list=PLFf2iGi9uteU",
+      "copy_text": "[เสียงเก่า] เส้นทางวิวัฒนาการราชันอสูรบรรพกาล\nhttps://www.youtube.com/playlist?list=PLZmDIWvIqjIo\n[เสียงใหม่] เส้นทางวิวัฒนาการราชันอสูรบรรพกาล\nhttps://www.youtube.com/playlist?list=PLFf2iGi9uteU"
+    },
     {
       "id": "e52d3d86-d879-4a88-b0e4-d8cfdcffa90a",
       "code": "130",
