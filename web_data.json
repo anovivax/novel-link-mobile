@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-10-06 08:38:26",
+  "generated_at": "2026-10-06 08:38:48",
   "records": [
+    {
+      "id": "ced7eec7-7f88-4115-bd7f-33bb61ae49bf",
+      "code": "134",
+      "title": "บัลลังก์ทมิฬแห่งองค์ชายทรราช",
+      "category": "blue",
+      "category_name": "แปลนิยายตามใจฉัน",
+      "date": "2026-10-06",
+      "created_at": "2026-10-06 08:38:48",
+      "updated_at": "2026-10-06 08:38:48",
+      "old_link": "https://www.youtube.com/playlist?list=PLHQXr8bkMaG8",
+      "new_link": "https://www.youtube.com/playlist?list=PLJMPwdBrzUuU",
+      "copy_text": "[เสียงเก่า] บัลลังก์ทมิฬแห่งองค์ชายทรราช\nhttps://www.youtube.com/playlist?list=PLHQXr8bkMaG8\n[เสียงใหม่] บัลลังก์ทมิฬแห่งองค์ชายทรราช\nhttps://www.youtube.com/playlist?list=PLJMPwdBrzUuU"
+    },
     {
       "id": "19fc2eec-4a7a-42e3-aa2a-71176a5791c5",
       "code": "133",
