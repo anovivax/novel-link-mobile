@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-10-13 08:46:31",
+  "generated_at": "2026-10-13 08:46:47",
   "records": [
+    {
+      "id": "f7ae94d2-e100-4e01-830c-6700922675b3",
+      "code": "139",
+      "title": "เส้นทางบำเพ็ญเพียร หลอมโอสถสยบใต้หล้า",
+      "category": "blue",
+      "category_name": "แปลนิยายตามใจฉัน",
+      "date": "2026-10-13",
+      "created_at": "2026-10-13 08:46:47",
+      "updated_at": "2026-10-13 08:46:47",
+      "old_link": "https://www.youtube.com/playlist?list=PLLBQ6ThOsbCA",
+      "new_link": "https://www.youtube.com/playlist?list=PLCRT1f9-kaGg",
+      "copy_text": "[เสียงเก่า] เส้นทางบำเพ็ญเพียร หลอมโอสถสยบใต้หล้า\nhttps://www.youtube.com/playlist?list=PLLBQ6ThOsbCA\n[เสียงใหม่] เส้นทางบำเพ็ญเพียร หลอมโอสถสยบใต้หล้า\nhttps://www.youtube.com/playlist?list=PLCRT1f9-kaGg"
+    },
     {
       "id": "ebfee1a1-366e-49ff-8648-57ce4a71c7b5",
       "code": "138",
