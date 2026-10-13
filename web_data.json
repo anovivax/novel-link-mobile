@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-10-13 08:46:22",
+  "generated_at": "2026-10-13 08:46:31",
   "records": [
+    {
+      "id": "ebfee1a1-366e-49ff-8648-57ce4a71c7b5",
+      "code": "138",
+      "title": "ระบบชิงชะตาสร้างเทพยุทธ์",
+      "category": "blue",
+      "category_name": "แปลนิยายตามใจฉัน",
+      "date": "2026-10-13",
+      "created_at": "2026-10-13 08:46:31",
+      "updated_at": "2026-10-13 08:46:31",
+      "old_link": "https://www.youtube.com/playlist?list=PLA8f4SMUCAC0",
+      "new_link": "https://www.youtube.com/playlist?list=PLfAyrbtBHtd8",
+      "copy_text": "[เสียงเก่า] ระบบชิงชะตาสร้างเทพยุทธ์\nhttps://www.youtube.com/playlist?list=PLA8f4SMUCAC0\n[เสียงใหม่] ระบบชิงชะตาสร้างเทพยุทธ์\nhttps://www.youtube.com/playlist?list=PLfAyrbtBHtd8"
+    },
     {
       "id": "f5d0ccf1-6d91-46e8-9c91-6c1ea89d93cf",
       "code": "137",
