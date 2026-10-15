@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-10-15 21:54:41",
+  "generated_at": "2026-10-15 21:54:55",
   "records": [
+    {
+      "id": "e749ab88-ab88-47c0-aa56-31176914f950",
+      "code": "140",
+      "title": "เซียนอมตะหวนคืนสู่โลกมนุษย์",
+      "category": "blue",
+      "category_name": "แปลนิยายตามใจฉัน",
+      "date": "2026-10-15",
+      "created_at": "2026-10-15 21:54:55",
+      "updated_at": "2026-10-15 21:54:55",
+      "old_link": "https://www.youtube.com/playlist?list=PLHRRr6wEamHA",
+      "new_link": "https://www.youtube.com/playlist?list=PLI6CKrvWRpiY",
+      "copy_text": "[เสียงเก่า] เซียนอมตะหวนคืนสู่โลกมนุษย์\nhttps://www.youtube.com/playlist?list=PLHRRr6wEamHA\n[เสียงใหม่] เซียนอมตะหวนคืนสู่โลกมนุษย์\nhttps://www.youtube.com/playlist?list=PLI6CKrvWRpiY"
+    },
     {
       "id": "0bf03ec2-27a6-43f3-8212-4d73848d7eba",
       "code": "451",
