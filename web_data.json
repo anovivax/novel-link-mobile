@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-10-21 02:26:31",
+  "generated_at": "2026-10-21 02:26:47",
   "records": [
+    {
+      "id": "0ac203e2-f183-4b46-9fa4-37cb8314e9d0",
+      "code": "144",
+      "title": "คุณพ่อสุดโกงกับลูกสาวสุดเทพ",
+      "category": "blue",
+      "category_name": "แปลนิยายตามใจฉัน",
+      "date": "2026-10-21",
+      "created_at": "2026-10-21 02:26:47",
+      "updated_at": "2026-10-21 02:26:47",
+      "old_link": "https://www.youtube.com/playlist?list=PLY9uKsD3W_WY",
+      "new_link": "https://www.youtube.com/playlist?list=PLRs6UAX-RWz8",
+      "copy_text": "[เสียงเก่า] คุณพ่อสุดโกงกับลูกสาวสุดเทพ\nhttps://www.youtube.com/playlist?list=PLY9uKsD3W_WY\n[เสียงใหม่] คุณพ่อสุดโกงกับลูกสาวสุดเทพ\nhttps://www.youtube.com/playlist?list=PLRs6UAX-RWz8"
+    },
     {
       "id": "928d5e28-279e-4793-84da-36f600f15333",
       "code": "244",
