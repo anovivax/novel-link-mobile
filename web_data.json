@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-10-23 00:19:42",
+  "generated_at": "2026-10-23 00:19:51",
   "records": [
+    {
+      "id": "4e165914-be71-4b7d-b2e6-fdfa529a4020",
+      "code": "146",
+      "title": "ระบบสร้างเทพจากข่าวลือ",
+      "category": "blue",
+      "category_name": "แปลนิยายตามใจฉัน",
+      "date": "2026-10-23",
+      "created_at": "2026-10-23 00:19:51",
+      "updated_at": "2026-10-23 00:19:51",
+      "old_link": "https://www.youtube.com/playlist?list=PLPwmIhujpk3g",
+      "new_link": "https://www.youtube.com/playlist?list=PLFZul1AKEOPY",
+      "copy_text": "[เสียงเก่า] ระบบสร้างเทพจากข่าวลือ\nhttps://www.youtube.com/playlist?list=PLPwmIhujpk3g\n[เสียงใหม่] ระบบสร้างเทพจากข่าวลือ\nhttps://www.youtube.com/playlist?list=PLFZul1AKEOPY"
+    },
     {
       "id": "9c29dedc-a3e6-4dbe-b262-48d96ef0449f",
       "code": "145",
