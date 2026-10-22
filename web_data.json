@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-10-23 00:19:51",
+  "generated_at": "2026-10-23 00:20:00",
   "records": [
+    {
+      "id": "cca116dc-0000-4635-8249-f1f6ec52c617",
+      "code": "147",
+      "title": "เกิดใหม่พร้อมระบบโกงที่ทำให้เก่งขึ้นทุกวินาที",
+      "category": "blue",
+      "category_name": "แปลนิยายตามใจฉัน",
+      "date": "2026-10-23",
+      "created_at": "2026-10-23 00:20:00",
+      "updated_at": "2026-10-23 00:20:00",
+      "old_link": "https://www.youtube.com/playlist?list=PLevRRvFG17Gw",
+      "new_link": "https://www.youtube.com/playlist?list=PLemtB4ZJi0Tw",
+      "copy_text": "[เสียงเก่า] เกิดใหม่พร้อมระบบโกงที่ทำให้เก่งขึ้นทุกวินาที\nhttps://www.youtube.com/playlist?list=PLevRRvFG17Gw\n[เสียงใหม่] เกิดใหม่พร้อมระบบโกงที่ทำให้เก่งขึ้นทุกวินาที\nhttps://www.youtube.com/playlist?list=PLemtB4ZJi0Tw"
+    },
     {
       "id": "4e165914-be71-4b7d-b2e6-fdfa529a4020",
       "code": "146",
