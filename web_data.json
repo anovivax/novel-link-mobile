@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-10-23 00:19:15",
+  "generated_at": "2026-10-23 00:19:42",
   "records": [
+    {
+      "id": "9c29dedc-a3e6-4dbe-b262-48d96ef0449f",
+      "code": "145",
+      "title": "พระเอกสายโหด โหมดบดขยี้พล็อตนิยายน้ำเน่า",
+      "category": "blue",
+      "category_name": "แปลนิยายตามใจฉัน",
+      "date": "2026-10-23",
+      "created_at": "2026-10-23 00:19:41",
+      "updated_at": "2026-10-23 00:19:41",
+      "old_link": "https://www.youtube.com/playlist?list=PLO33l6EUBizs",
+      "new_link": "https://www.youtube.com/playlist?list=PLDwPrn2OmJtc",
+      "copy_text": "[เสียงเก่า] พระเอกสายโหด โหมดบดขยี้พล็อตนิยายน้ำเน่า\nhttps://www.youtube.com/playlist?list=PLO33l6EUBizs\n[เสียงใหม่] พระเอกสายโหด โหมดบดขยี้พล็อตนิยายน้ำเน่า\nhttps://www.youtube.com/playlist?list=PLDwPrn2OmJtc"
+    },
     {
       "id": "67f97142-fd31-4374-9a46-b199f5c68e36",
       "code": "456",
