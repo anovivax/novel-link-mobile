@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-10-23 00:19:07",
+  "generated_at": "2026-10-23 00:19:15",
   "records": [
+    {
+      "id": "67f97142-fd31-4374-9a46-b199f5c68e36",
+      "code": "456",
+      "title": "มรรคาตัวร้ายสยบสวรรค์",
+      "category": "green",
+      "category_name": "Darkness Novel",
+      "date": "2026-10-23",
+      "created_at": "2026-10-23 00:19:15",
+      "updated_at": "2026-10-23 00:19:15",
+      "old_link": "https://www.youtube.com/playlist?list=PLLR3L98Vf7GE",
+      "new_link": "https://www.youtube.com/playlist?list=PLZ0xx6rXvn74",
+      "copy_text": "[เสียงเก่า] มรรคาตัวร้ายสยบสวรรค์\nhttps://www.youtube.com/playlist?list=PLLR3L98Vf7GE\n[เสียงใหม่] มรรคาตัวร้ายสยบสวรรค์\nhttps://www.youtube.com/playlist?list=PLZ0xx6rXvn74"
+    },
     {
       "id": "b27f4be7-ad05-4604-8095-297cdc0b7c1a",
       "code": "455",
