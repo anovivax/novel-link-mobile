@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-01 09:56:52",
+  "generated_at": "2026-11-01 09:57:10",
   "records": [
+    {
+      "id": "84c6167c-3937-4856-8578-7c69e4f28cf5",
+      "code": "154",
+      "title": "เกิดใหม่พร้อมป้ายสถานะสุดโกง",
+      "category": "blue",
+      "category_name": "แปลนิยายตามใจฉัน",
+      "date": "2026-11-01",
+      "created_at": "2026-11-01 09:57:10",
+      "updated_at": "2026-11-01 09:57:10",
+      "old_link": "https://www.youtube.com/playlist?list=PLf05YiW9ujO0",
+      "new_link": "https://www.youtube.com/playlist?list=PLBywb1LXEdBc",
+      "copy_text": "[เสียงเก่า] เกิดใหม่พร้อมป้ายสถานะสุดโกง\nhttps://www.youtube.com/playlist?list=PLf05YiW9ujO0\n[เสียงใหม่] เกิดใหม่พร้อมป้ายสถานะสุดโกง\nhttps://www.youtube.com/playlist?list=PLBywb1LXEdBc"
+    },
     {
       "id": "16b31b54-451f-43fc-a0e1-aebcaedb32ed",
       "code": "153",
