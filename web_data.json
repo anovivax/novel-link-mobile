@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-05 21:18:14",
+  "generated_at": "2026-11-05 21:18:25",
   "records": [
+    {
+      "id": "b3954aaa-44cd-4d1f-8b90-f351ddde2253",
+      "code": "158",
+      "title": "สยบหมื่นภพด้วยกายาบรรพกาล",
+      "category": "blue",
+      "category_name": "แปลนิยายตามใจฉัน",
+      "date": "2026-11-05",
+      "created_at": "2026-11-05 21:18:25",
+      "updated_at": "2026-11-05 21:18:25",
+      "old_link": "https://www.youtube.com/playlist?list=PLR91_WNJPf1w",
+      "new_link": "https://www.youtube.com/playlist?list=PLWc2Px4WiQxk",
+      "copy_text": "[เสียงเก่า] สยบหมื่นภพด้วยกายาบรรพกาล\nhttps://www.youtube.com/playlist?list=PLR91_WNJPf1w\n[เสียงใหม่] สยบหมื่นภพด้วยกายาบรรพกาล\nhttps://www.youtube.com/playlist?list=PLWc2Px4WiQxk"
+    },
     {
       "id": "100735cf-57ba-4092-b809-bc851730329b",
       "code": "157",
