@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-05 21:18:03",
+  "generated_at": "2026-11-05 21:18:14",
   "records": [
+    {
+      "id": "100735cf-57ba-4092-b809-bc851730329b",
+      "code": "157",
+      "title": "จักรพรรดิเซียนเหนือสวรรค์",
+      "category": "blue",
+      "category_name": "แปลนิยายตามใจฉัน",
+      "date": "2026-11-05",
+      "created_at": "2026-11-05 21:18:14",
+      "updated_at": "2026-11-05 21:18:14",
+      "old_link": "https://www.youtube.com/playlist?list=PLH5eNnNfv4Es",
+      "new_link": "https://www.youtube.com/playlist?list=PLKKHy-ZQk03w",
+      "copy_text": "[เสียงเก่า] จักรพรรดิเซียนเหนือสวรรค์\nhttps://www.youtube.com/playlist?list=PLH5eNnNfv4Es\n[เสียงใหม่] จักรพรรดิเซียนเหนือสวรรค์\nhttps://www.youtube.com/playlist?list=PLKKHy-ZQk03w"
+    },
     {
       "id": "b83e0efd-20d4-47a1-b860-233524daa0ae",
       "code": "470",
