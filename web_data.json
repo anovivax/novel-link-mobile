@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-07 21:01:46",
+  "generated_at": "2026-11-07 21:01:55",
   "records": [
+    {
+      "id": "437a2e8d-42b8-4123-be3d-52b8fb21989c",
+      "code": "472",
+      "title": "เปิดร้านอาหารข้ามมิติพารวย",
+      "category": "green",
+      "category_name": "Darkness Novel",
+      "date": "2026-11-07",
+      "created_at": "2026-11-07 21:01:55",
+      "updated_at": "2026-11-07 21:01:55",
+      "old_link": "https://www.youtube.com/playlist?list=PLJ5e6boRtAQ0",
+      "new_link": "https://www.youtube.com/playlist?list=PLJ8pIzJVENSY",
+      "copy_text": "[เสียงเก่า] เปิดร้านอาหารข้ามมิติพารวย\nhttps://www.youtube.com/playlist?list=PLJ5e6boRtAQ0\n[เสียงใหม่] เปิดร้านอาหารข้ามมิติพารวย\nhttps://www.youtube.com/playlist?list=PLJ8pIzJVENSY"
+    },
     {
       "id": "d5fba2b9-23b5-4256-b53d-d7d6ef99c64c",
       "code": "471",
