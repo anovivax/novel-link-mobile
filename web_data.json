@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-10 08:46:02",
+  "generated_at": "2026-11-10 08:46:09",
   "records": [
+    {
+      "id": "64841748-8e52-4768-8633-d595d2661c5f",
+      "code": "160",
+      "title": "ระบบจัดซื้อมหัศจรรย์แห่งท้องทะเล",
+      "category": "blue",
+      "category_name": "แปลนิยายตามใจฉัน",
+      "date": "2026-11-10",
+      "created_at": "2026-11-10 08:46:08",
+      "updated_at": "2026-11-10 08:46:08",
+      "old_link": "https://www.youtube.com/playlist?list=PLXmPYoP085yY",
+      "new_link": "https://www.youtube.com/playlist?list=PLU9PIwk1VgrI",
+      "copy_text": "[เสียงเก่า] ระบบจัดซื้อมหัศจรรย์แห่งท้องทะเล\nhttps://www.youtube.com/playlist?list=PLXmPYoP085yY\n[เสียงใหม่] ระบบจัดซื้อมหัศจรรย์แห่งท้องทะเล\nhttps://www.youtube.com/playlist?list=PLU9PIwk1VgrI"
+    },
     {
       "id": "bfe4a272-4339-486a-b1a8-71cc0351dfc7",
       "code": "159",
