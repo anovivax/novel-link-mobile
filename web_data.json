@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-10 08:46:32",
+  "generated_at": "2026-11-10 08:46:39",
   "records": [
+    {
+      "id": "205de391-fe5a-4e0e-a82e-bb5b0faa4057",
+      "code": "161",
+      "title": "เมื่อฉันใช้ไลฟ์สดเปิดโปงความลับของโลก",
+      "category": "blue",
+      "category_name": "แปลนิยายตามใจฉัน",
+      "date": "2026-11-10",
+      "created_at": "2026-11-10 08:46:39",
+      "updated_at": "2026-11-10 08:46:39",
+      "old_link": "https://www.youtube.com/playlist?list=PLU6NXQJxaT_s",
+      "new_link": "https://www.youtube.com/playlist?list=PLWPOfpmnKABw",
+      "copy_text": "[เสียงเก่า] เมื่อฉันใช้ไลฟ์สดเปิดโปงความลับของโลก\nhttps://www.youtube.com/playlist?list=PLU6NXQJxaT_s\n[เสียงใหม่] เมื่อฉันใช้ไลฟ์สดเปิดโปงความลับของโลก\nhttps://www.youtube.com/playlist?list=PLWPOfpmnKABw"
+    },
     {
       "id": "3a90e2dc-11bc-4335-a92c-f951c4e5c457",
       "code": "264",
