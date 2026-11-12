@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-13 01:05:49",
+  "generated_at": "2026-11-13 01:05:59",
   "records": [
+    {
+      "id": "93318cb7-3e54-4a06-bcf8-78d0f5fc6474",
+      "code": "267",
+      "title": "ระบบข่าวสารรายวันปั้นข้าเป็นเซียน",
+      "category": "red",
+      "category_name": "Twilight Novel",
+      "date": "2026-11-13",
+      "created_at": "2026-11-13 01:05:59",
+      "updated_at": "2026-11-13 01:05:59",
+      "old_link": "https://www.youtube.com/playlist?list=PLBTvkMMGrCeo",
+      "new_link": "https://www.youtube.com/playlist?list=PLHPLjMYlE91w",
+      "copy_text": "[เสียงเก่า] ระบบข่าวสารรายวันปั้นข้าเป็นเซียน\nhttps://www.youtube.com/playlist?list=PLBTvkMMGrCeo\n[เสียงใหม่] ระบบข่าวสารรายวันปั้นข้าเป็นเซียน\nhttps://www.youtube.com/playlist?list=PLHPLjMYlE91w"
+    },
     {
       "id": "0207c611-a792-4341-afe6-799547810fe8",
       "code": "266",
