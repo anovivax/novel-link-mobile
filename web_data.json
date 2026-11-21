@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-21 20:54:20",
+  "generated_at": "2026-11-21 20:54:28",
   "records": [
+    {
+      "id": "1d50ec5e-f4de-4116-bb5f-b8967b5434e8",
+      "code": "169",
+      "title": "หวนคืนภพนี้ขอตัดขาดศิษย์เนรคุณ",
+      "category": "blue",
+      "category_name": "แปลนิยายตามใจฉัน",
+      "date": "2026-11-21",
+      "created_at": "2026-11-21 20:54:28",
+      "updated_at": "2026-11-21 20:54:28",
+      "old_link": "https://www.youtube.com/playlist?list=PLHDnLVMJMTNQ",
+      "new_link": "https://www.youtube.com/playlist?list=PLWveP923a2co",
+      "copy_text": "[เสียงเก่า] หวนคืนภพนี้ขอตัดขาดศิษย์เนรคุณ\nhttps://www.youtube.com/playlist?list=PLHDnLVMJMTNQ\n[เสียงใหม่] หวนคืนภพนี้ขอตัดขาดศิษย์เนรคุณ\nhttps://www.youtube.com/playlist?list=PLWveP923a2co"
+    },
     {
       "id": "48298ad3-a2b0-47cc-8fa6-15fea80bd978",
       "code": "168",
