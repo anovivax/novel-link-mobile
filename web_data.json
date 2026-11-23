@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-23 18:43:07",
+  "generated_at": "2026-11-23 18:43:14",
   "records": [
+    {
+      "id": "4daeb2fa-f094-45d6-8a1f-54c33a520954",
+      "code": "173",
+      "title": "ระบบลดวิชาสุดเกรียน",
+      "category": "blue",
+      "category_name": "แปลนิยายตามใจฉัน",
+      "date": "2026-11-23",
+      "created_at": "2026-11-23 18:43:14",
+      "updated_at": "2026-11-23 18:43:14",
+      "old_link": "https://www.youtube.com/playlist?list=PLe59xqYoIUYo",
+      "new_link": "https://www.youtube.com/playlist?list=PLcCoJyOj6g3Y",
+      "copy_text": "[เสียงเก่า] ระบบลดวิชาสุดเกรียน\nhttps://www.youtube.com/playlist?list=PLe59xqYoIUYo\n[เสียงใหม่] ระบบลดวิชาสุดเกรียน\nhttps://www.youtube.com/playlist?list=PLcCoJyOj6g3Y"
+    },
     {
       "id": "c26dba26-d01d-4d13-8b2d-8fac1398d5fb",
       "code": "172",
