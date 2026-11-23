@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-23 18:43:14",
+  "generated_at": "2026-11-23 18:43:23",
   "records": [
+    {
+      "id": "6e1aa065-c17c-4afe-910f-b6cf385dc1d2",
+      "code": "174",
+      "title": "ระบบมหาเศรษฐีฟื้นฟูตระกูล",
+      "category": "blue",
+      "category_name": "แปลนิยายตามใจฉัน",
+      "date": "2026-11-23",
+      "created_at": "2026-11-23 18:43:22",
+      "updated_at": "2026-11-23 18:43:22",
+      "old_link": "https://www.youtube.com/playlist?list=PLdmd_oxoxIAI",
+      "new_link": "https://www.youtube.com/playlist?list=PLLHMFNlTwI2U",
+      "copy_text": "[เสียงเก่า] ระบบมหาเศรษฐีฟื้นฟูตระกูล\nhttps://www.youtube.com/playlist?list=PLdmd_oxoxIAI\n[เสียงใหม่] ระบบมหาเศรษฐีฟื้นฟูตระกูล\nhttps://www.youtube.com/playlist?list=PLLHMFNlTwI2U"
+    },
     {
       "id": "4daeb2fa-f094-45d6-8a1f-54c33a520954",
       "code": "173",
