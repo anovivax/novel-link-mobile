@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-23 18:42:26",
+  "generated_at": "2026-11-23 18:43:07",
   "records": [
+    {
+      "id": "c26dba26-d01d-4d13-8b2d-8fac1398d5fb",
+      "code": "172",
+      "title": "วิถีเซียนเต่าอายุวัฒนะหมื่นปี",
+      "category": "blue",
+      "category_name": "แปลนิยายตามใจฉัน",
+      "date": "2026-11-23",
+      "created_at": "2026-11-23 18:43:07",
+      "updated_at": "2026-11-23 18:43:07",
+      "old_link": "https://www.youtube.com/playlist?list=PLQAZjqYLxjMo",
+      "new_link": "https://www.youtube.com/playlist?list=PLNMvzzwBHepY",
+      "copy_text": "[เสียงเก่า] วิถีเซียนเต่าอายุวัฒนะหมื่นปี\nhttps://www.youtube.com/playlist?list=PLQAZjqYLxjMo\n[เสียงใหม่] วิถีเซียนเต่าอายุวัฒนะหมื่นปี\nhttps://www.youtube.com/playlist?list=PLNMvzzwBHepY"
+    },
     {
       "id": "7225281e-e896-4d6f-8ead-b509b17904ec",
       "code": "496",
