@@ -1,6 +1,45 @@
 {
-  "generated_at": "2026-11-26 10:07:33",
+  "generated_at": "2026-11-26 10:08:15",
   "records": [
+    {
+      "id": "ee94ada8-4374-4223-b910-a67bbf47dbf7",
+      "code": "178",
+      "title": "อาจารย์สายชิลมาพร้อมระบบสุดโกง",
+      "category": "blue",
+      "category_name": "แปลนิยายตามใจฉัน",
+      "date": "2026-11-26",
+      "created_at": "2026-11-26 10:08:15",
+      "updated_at": "2026-11-26 10:08:15",
+      "old_link": "https://www.youtube.com/playlist?list=PLXjUnyXLVD70",
+      "new_link": "https://www.youtube.com/playlist?list=PLHI5NIunasqw",
+      "copy_text": "[เสียงเก่า] อาจารย์สายชิลมาพร้อมระบบสุดโกง\nhttps://www.youtube.com/playlist?list=PLXjUnyXLVD70\n[เสียงใหม่] อาจารย์สายชิลมาพร้อมระบบสุดโกง\nhttps://www.youtube.com/playlist?list=PLHI5NIunasqw"
+    },
+    {
+      "id": "fa8eaa25-86e7-40d1-b166-a76e71fd8957",
+      "code": "177",
+      "title": "สร้างเกาะเทพด้วยระบบอัปเกรด",
+      "category": "blue",
+      "category_name": "แปลนิยายตามใจฉัน",
+      "date": "2026-11-26",
+      "created_at": "2026-11-26 10:08:03",
+      "updated_at": "2026-11-26 10:08:03",
+      "old_link": "https://www.youtube.com/playlist?list=PLWhr03vZtSsw",
+      "new_link": "https://www.youtube.com/playlist?list=PLM03niWldWnY",
+      "copy_text": "[เสียงเก่า] สร้างเกาะเทพด้วยระบบอัปเกรด\nhttps://www.youtube.com/playlist?list=PLWhr03vZtSsw\n[เสียงใหม่] สร้างเกาะเทพด้วยระบบอัปเกรด\nhttps://www.youtube.com/playlist?list=PLM03niWldWnY"
+    },
+    {
+      "id": "912442f6-ae39-47f6-acc7-7f46b8f68e7a",
+      "code": "176",
+      "title": "ทะลุมิติมาสังเคราะห์ไอเทมในโลกดันเจี้ยน",
+      "category": "blue",
+      "category_name": "แปลนิยายตามใจฉัน",
+      "date": "2026-11-26",
+      "created_at": "2026-11-26 10:07:53",
+      "updated_at": "2026-11-26 10:07:53",
+      "old_link": "https://www.youtube.com/playlist?list=PLHjISIs4CVTA",
+      "new_link": "https://www.youtube.com/playlist?list=PLA9238QSsgSY",
+      "copy_text": "[เสียงเก่า] ทะลุมิติมาสังเคราะห์ไอเทมในโลกดันเจี้ยน\nhttps://www.youtube.com/playlist?list=PLHjISIs4CVTA\n[เสียงใหม่] ทะลุมิติมาสังเคราะห์ไอเทมในโลกดันเจี้ยน\nhttps://www.youtube.com/playlist?list=PLA9238QSsgSY"
+    },
     {
       "id": "56834b0d-5abf-4267-8ba8-575d0007fea3",
       "code": "289",
