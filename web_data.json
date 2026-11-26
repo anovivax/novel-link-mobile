@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-26 10:06:39",
+  "generated_at": "2026-11-26 10:06:56",
   "records": [
+    {
+      "id": "ab350180-7a8f-42ea-83db-214f444c115f",
+      "code": "286",
+      "title": "ข้าคือบรรพชนที่แกร่งที่สุด",
+      "category": "red",
+      "category_name": "Twilight Novel",
+      "date": "2026-11-26",
+      "created_at": "2026-11-26 10:06:56",
+      "updated_at": "2026-11-26 10:06:56",
+      "old_link": "https://www.youtube.com/playlist?list=PLK218oSzPebg",
+      "new_link": "https://www.youtube.com/playlist?list=PLYX7Rzq-zKcU",
+      "copy_text": "[เสียงเก่า] ข้าคือบรรพชนที่แกร่งที่สุด\nhttps://www.youtube.com/playlist?list=PLK218oSzPebg\n[เสียงใหม่] ข้าคือบรรพชนที่แกร่งที่สุด\nhttps://www.youtube.com/playlist?list=PLYX7Rzq-zKcU"
+    },
     {
       "id": "46736ba6-cb1f-4fa3-941a-7454c32f8b0a",
       "code": "501",
